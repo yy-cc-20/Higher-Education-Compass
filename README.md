@@ -6,4 +6,5 @@ Features include:
 - Personalized interpretations, university programme recommendations, and career suggestions based on assessment results.
 - Entrepreneurial assessment to identify students' potential to become entrepreneurs.
 - Information about occupations, industry, and the Malaysian labour market.
+
 The system aims to improve students' self-awareness, facilitate informed decision-making, and promote better academic and career choices. It has the potential to reduce dropout rates, regret on university program choice, and unemployment rates by providing valuable career guidance resources.
